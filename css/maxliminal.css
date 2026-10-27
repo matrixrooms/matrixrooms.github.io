@@ -825,3 +825,8 @@ hr {
 .thread-container .post .content a:hover {
     color: rgb(var(--bright-accent)) !important;
 }
+
+#skrollr-body,
+#container {
+    background-image: none !important;
+}
