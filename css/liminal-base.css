@@ -1,0 +1,7 @@
+@import url("https://github.backroomswiki.cn/Old_BHL/css/liminal-impact.css");
+@import url("https://github.backroomswiki.cn/New_BHL/css/sidebar.css");
+:root {
+             --logo-image: url("https://cdn.jsdelivr.net/gh/matrixrooms/matrixrooms.github.io@main/logo/logo%20finally.png");
+             --header-title: "The Matrixrooms";
+             --header-subtitle: "此为来世";
+}
